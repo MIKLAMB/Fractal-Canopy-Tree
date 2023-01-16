@@ -1,0 +1,17 @@
+D:\Vs\2022\project\fractal\fractal\bin\Release\net6.0-windows\fractal.exe
+D:\Vs\2022\project\fractal\fractal\bin\Release\net6.0-windows\fractal.deps.json
+D:\Vs\2022\project\fractal\fractal\bin\Release\net6.0-windows\fractal.runtimeconfig.json
+D:\Vs\2022\project\fractal\fractal\bin\Release\net6.0-windows\fractal.dll
+D:\Vs\2022\project\fractal\fractal\bin\Release\net6.0-windows\fractal.pdb
+D:\Vs\2022\project\fractal\fractal\obj\Release\net6.0-windows\fractal.csproj.AssemblyReference.cache
+D:\Vs\2022\project\fractal\fractal\obj\Release\net6.0-windows\fractal.Form1.resources
+D:\Vs\2022\project\fractal\fractal\obj\Release\net6.0-windows\fractal.csproj.GenerateResource.cache
+D:\Vs\2022\project\fractal\fractal\obj\Release\net6.0-windows\fractal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs\2022\project\fractal\fractal\obj\Release\net6.0-windows\fractal.AssemblyInfoInputs.cache
+D:\Vs\2022\project\fractal\fractal\obj\Release\net6.0-windows\fractal.AssemblyInfo.cs
+D:\Vs\2022\project\fractal\fractal\obj\Release\net6.0-windows\fractal.csproj.CoreCompileInputs.cache
+D:\Vs\2022\project\fractal\fractal\obj\Release\net6.0-windows\fractal.dll
+D:\Vs\2022\project\fractal\fractal\obj\Release\net6.0-windows\refint\fractal.dll
+D:\Vs\2022\project\fractal\fractal\obj\Release\net6.0-windows\fractal.pdb
+D:\Vs\2022\project\fractal\fractal\obj\Release\net6.0-windows\fractal.genruntimeconfig.cache
+D:\Vs\2022\project\fractal\fractal\obj\Release\net6.0-windows\ref\fractal.dll
